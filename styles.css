@@ -195,6 +195,7 @@ button:hover {
     position: relative;
     overflow: hidden;
     text-align: center;
+    box-sizing: border-box;
 
 }
 .card i {
