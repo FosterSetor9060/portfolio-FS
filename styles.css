@@ -76,11 +76,12 @@ h3 {
     color: white;
     font-size: 25px;
     margin-bottom: 50px;
+    font-weight: bold;
 }
 h4 {
-    color: #fcfc;
+    color: white;
     letter-spacing: 2px;
-    font-size: 20px;
+    font-size: 23px;
     font-weight: bold;
 }
 .newsletter form {
