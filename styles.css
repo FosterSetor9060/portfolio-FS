@@ -117,9 +117,9 @@ h4 {
     background-color: #191919;
 }
 .about img {
-    height: 475px;
-    width: 430px;
-    border-radius: 20px;
+    height: 430px;
+    width: 430px;  /* Ensure the width and height are the same for a circular shape */
+    border-radius: 50%;  /* Make the image round */
 }
 .about-text {
     width: 550px;
