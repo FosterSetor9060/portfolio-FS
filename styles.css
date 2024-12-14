@@ -119,7 +119,7 @@ h4 {
 .about img {
     height: 430px;
     width: 430px;  /* Ensure the width and height are the same for a circular shape */
-    border-radius: 50%;  /* Make the image round */
+    border-radius: 0%;  /* Make the image round */
 }
 .about-text {
     width: 550px;
